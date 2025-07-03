@@ -71,7 +71,7 @@ Visualizations were created using **Matplotlib** and **Pandas**, and the project
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/netflixviz.git
+   git clone https://github.com/VrajPatel0810/-NetflixViz.git
    cd netflixviz
    ```
 
