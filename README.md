@@ -107,5 +107,5 @@ Open to suggestions and contributions for improving the analysis or extending th
 ## 🙋‍♂️ Author
 
 **Vraj Patel**  
-[LinkedIn][(https://www.linkedin.com/in/vraj-patel-68310b188/)] 
+[LinkedIn](https://www.linkedin.com/in/vraj-patel-68310b188/)
 
